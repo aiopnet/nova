@@ -1,5 +1,5 @@
 # NOVA
-# Multi-Agent AI System
+# Multi-Agent Network Operations AI Platform
 
 An advanced framework for building intelligent, collaborative multi-agent systems that seamlessly integrate the Model Context Protocol (MCP) and Agent2Agent Protocol (A2A).
 
